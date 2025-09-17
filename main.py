@@ -159,7 +159,7 @@ def obter_numero_float(mensagem: str) -> float:
 def menu_principal():
     """Exibe o menu principal"""
     print("\n" + "=" * 50)
-    print("🏦 SISTEMA BANCÁRIO DIGITAL")
+    print("🏦 SISTEMA BANCÁRIO DA KAROL")
     print("=" * 50)
     print("1. 🆕 Criar nova conta")
     print("2. 💰 Depositar")
@@ -357,4 +357,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main ()
